@@ -1,0 +1,20 @@
+.logo-width {
+    width: 30px;
+}.adidas-width {
+    width: 50px;
+}
+.text-red {
+    color: #CC1930;
+}
+.active {
+    color: #CC1930;
+}
+.nav-link {
+    color: #000;
+}
+.nav-link:hover {
+    color: #CC1930;
+}
+.navbar-brand:hover{
+    color: #CC1930;
+}
